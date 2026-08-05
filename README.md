@@ -211,6 +211,6 @@ The application uses a pre-trained neural network to generate predictions. The m
 - CardioScan is intended exclusively as an educational and clinical decision-support demonstration. It is not a certified medical device and should not be used as a substitute for professional medical diagnosis, treatment, or clinical judgement.
 ---
 
-# Author
+# Suhail Salman
 
 Project Name: **CardioScan – Heart Disease Risk Prediction System**
