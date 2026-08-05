@@ -9,7 +9,7 @@ The application provides a healthcare-themed user interface where users can ente
 # Project Structure
 
 ```
-HeartDiseaseFlaskApp/
+CardioScan/
 │
 ├── app.py                     # Flask application
 ├── heart_disease_model.keras  # Trained ANN model
