@@ -4,10 +4,6 @@ CardioScan is a Flask-based web application developed as part Computational Inte
 
 The application provides a healthcare-themed user interface where users can enter patient information and receive an AI-assisted cardiovascular risk assessment, including the predicted outcome, probability of heart disease, and model confidence.
 
-> **Disclaimer**
->
-> CardioScan is intended for educational and research purposes only. It is not a certified medical device and should not be used as a substitute for professional medical diagnosis or clinical decision-making.
-
 ---
 
 # Project Structure
