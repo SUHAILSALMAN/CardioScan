@@ -1,5 +1,3 @@
-
-
 import logging
 import os
 import warnings
@@ -8,10 +6,6 @@ import joblib
 import numpy as np
 from flask import Flask, jsonify, render_template, request
 
-# The scaler was fit on a pandas DataFrame (named columns) but we intentionally
-# feed it a plain ndarray at inference time, which is fine as long as the
-# column ORDER matches (see FEATURE_ORDER below). This just silences the
-# resulting, harmless sklearn warning.
 warnings.filterwarnings(
     "ignore",
     message="X does not have valid feature names",
